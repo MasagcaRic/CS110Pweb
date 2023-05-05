@@ -1,0 +1,24 @@
+.parallax-container {
+    height: 200px;
+}
+.hotdog {
+    overflow-y: scroll; /* Add the ability to scroll */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hotdog::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hotdog {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: none;  /* Firefox */
+}
+.secparal{
+    height: 322px;
+}
+
+.secparal2{
+    height: 348px;
+}
